@@ -1,5 +1,8 @@
 testOrry
 
-tambah kata di line 3
 
-tambah 5 tio
+tambah kata di line tiga
+
+tambah 5 ortzy
+
+
